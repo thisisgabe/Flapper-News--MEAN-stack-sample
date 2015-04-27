@@ -1,5 +1,3 @@
-<snippet>
-  <content><![CDATA[
 # ${1:FlapperNews - a MEAN stack Reddit Clone}
 
 This is a copy of my work working on the
@@ -46,8 +44,4 @@ google
 
 ## License
 
-Really is non
-
-]]></content>
-  <tabTrigger>readme</tabTrigger>
-</snippet>
+Really is none
