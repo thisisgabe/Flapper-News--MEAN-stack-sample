@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-# ${1:'FlapperNews (MEAN stack Reddit Clone)'}
+# ${1:FlapperNews - a MEAN stack Reddit Clone}
 
 This is a copy of my work working on the
 MEAN stack tutorial located at
